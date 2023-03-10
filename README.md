@@ -1,7 +1,7 @@
 ### Welcome
 
 <div id="header" align="center">
-  <img src="https://viralapk.com/30-fresh-out-of-the-oven-memes-of-the-week-to-make-you-laugh/" width="100"/>
+  <img src="https://viralapk.com/30-fresh-out-of-the-oven-memes-of-the-week-to-make-you-laugh/"/>
 </div>
 
 <!--
