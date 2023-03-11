@@ -15,15 +15,16 @@
 ![Env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
-Becoming a software engineer did not happen over night. 
+Becoming a software engineer did not happen overnight.
 
-Jumping from finance to computer science has been a big change and risk, but a comfortable one. Finding a place where my problem solving skills can shine and always be utilize has been satisfying. After working in construction and finance, one thing held persistent; I like using technology to make things easier for myself and coworkers. 
+Jumping from finance to computer science has been a big change and risk, but a comfortable one. Finding a place where my problem solving skills can shine and always be utilized has been satisfying. After working in construction and finance, one thing held persistent; I like using technology to make things easier for myself and coworkers.
 
-Working smarter not harder was always my motto and I found that software engineering met me in the middle. In this transition, I started off with formal education where I dove into C++, Java and Python. After learning a good foundation, it was time to enter in a more intense program to sharpen and test that foundation. 
+Working smarter not harder was always my motto and I found that software engineering met me in the middle. In this transition, I started off with formal education where I dove into C++, Java and Python. After learning a good foundation, it was time to enter a more intense program to sharpen and test that foundation.
 
-After entering Hack Reactor, I now have actual experience with being a full stack engineer. Although back-end development is where I shine, I am always up for a challenge. As I continue through this advance program, I was able to learn many technologies and invest over 1,000 hours into become a top software engineer.
+After entering Hack Reactor, I now have actual experience with being a full stack engineer. Although back-end development is where I shine, I am always up for a challenge. As I continue through this advanced program, I was able to learn many technologies and invest over 1,000 hours into becoming a top software engineer.
 
-Checkout some of my collaborative projects such as Project Atelier or solo sprint project HomeMade. You might just find something you like! 
+Checkout some of my collaborative projects such as Project Atelier or solo sprint project HomeMade. You might just find something you like!
+
 
 <!--
 
